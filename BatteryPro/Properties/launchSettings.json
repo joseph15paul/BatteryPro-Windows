@@ -1,0 +1,10 @@
+{
+  "profiles": {
+    "BatteryPro (Package)": {
+      "commandName": "MsixPackage"
+    },
+    "BatteryPro (Unpackaged)": {
+      "commandName": "Project"
+    }
+  }
+}
